@@ -1,9 +1,9 @@
-project-name
+docs
 ------------
-Documents
+Dokomenty
 =========
 .. toctree::
-:maxdepth: 16
+:maxdepth: 2
 
 user-guide
 cos
