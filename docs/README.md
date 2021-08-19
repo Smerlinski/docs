@@ -2,3 +2,4 @@
 Documents
 --------
 * [User Guide](user-guide.md)
+* [Cos](cos.md)
